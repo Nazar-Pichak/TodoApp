@@ -23,6 +23,15 @@ The hardest was deploy and run this on the web server and sync it with [SMTP ser
 # Installation
 
 ```
+python -m venv env
+.\env\Scripts\activate
+git clone https://github.com/Nazar-Pichak/TodoApp.git
 
+```
+cd to the place where is the repo was cloned
 
+```
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python manage.py runserver
 ```
