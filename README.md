@@ -7,3 +7,4 @@ The hardest was deploy and run this on the web server and sync it with [SMTP ser
 
 # How it works
 
+<img width="467" alt="Знімок екрана 2023-07-27 122029" src="https://github.com/Nazar-Pichak/TodoApp/assets/103797791/ef7210be-3f8d-4705-a256-ffff5436d485">
