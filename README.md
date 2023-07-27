@@ -1,4 +1,4 @@
-[![Made with - python](https://img.shields.io/badge/Made_with-python-blue?logo=python&logoColor=green)](https://www.djangoproject.com/start/)
+[![Made with - python](https://img.shields.io/badge/Made_with-python-blue?logo=python&logoColor=green)](https://www.python.org/start/)
 [![Made with - django](https://img.shields.io/badge/Made_with-django-2ea44f?logo=django&logoColor=green)](https://www.djangoproject.com/start/)
 
 
