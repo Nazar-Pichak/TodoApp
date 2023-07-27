@@ -1,6 +1,7 @@
 ![Made with - python](https://img.shields.io/static/v1?label=Made+with&message=python&color=darkgreen&logo=python&logoColor=green)
 [![Made with - django](https://img.shields.io/badge/Made_with-django-2ea44f?logo=django&logoColor=green)](https://www.djangoproject.com/start/)
-
+[![Made with - VSCode](https://img.shields.io/static/v1?label=Made+with&message=VSCode&color=blue&logo=Visual+Studio+Code&logoColor=blue)](https://code.visualstudio.com/)
+[![Github - service](https://img.shields.io/static/v1?label=Github&message=service&color=black&logo=github&logoColor=black)](https://github.com/)
 
 # TodoApp
 
