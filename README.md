@@ -1,3 +1,8 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
+
 # TodoApp
 
 By following [tutorial](https://www.pythontutorial.net/django-tutorial/) about [Django](https://www.djangoproject.com/start/) was created the project [TodoApp](http://todoapp-nazar2022.pythonanywhere.com/).
