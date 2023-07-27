@@ -1,8 +1,9 @@
 ![Made with - python](https://img.shields.io/static/v1?label=Made+with&message=python&color=darkgreen&logo=python&logoColor=green)
-    [![Made with - django](https://img.shields.io/badge/Made_with-django-2ea44f?logo=django&logoColor=green)](https://www.djangoproject.com/start/)
-    [![Made with - VSCode](https://img.shields.io/static/v1?label=Made+with&message=VSCode&color=blue&logo=Visual+Studio+Code&logoColor=blue)](https://code.visualstudio.com/)
-    [![Github - service](https://img.shields.io/static/v1?label=Github&message=service&color=black&logo=github&logoColor=black)](https://github.com/)
-
+[![Made with - django](https://img.shields.io/badge/Made_with-django-2ea44f?logo=django&logoColor=green)](https://www.djangoproject.com/start/)
+[![Made with - VSCode](https://img.shields.io/static/v1?label=Made+with&message=VSCode&color=blue&logo=Visual+Studio+Code&logoColor=blue)](https://code.visualstudio.com/)
+[![Github - service](https://img.shields.io/static/v1?label=Github&message=service&color=black&logo=github&logoColor=black)](https://github.com/)
+[![hosting price - 8 USD monthly](https://img.shields.io/static/v1?label=hosting+price&message=8+USD+monthly&color=2ea44f&logo=pythonanywhere)](https://)
+[![transactional - email](https://img.shields.io/static/v1?label=transactional&message=email&color=2ea44f&logo=mailgun)](https://www.mailgun.com/)
 # TodoApp
 
 By following [tutorial](https://www.pythontutorial.net/django-tutorial/) about [Django](https://www.djangoproject.com/start/) was created the project [TodoApp](http://todoapp-nazar2022.pythonanywhere.com/).
