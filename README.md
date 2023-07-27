@@ -1,5 +1,6 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-<a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
+[![Made with - python](https://img.shields.io/badge/Made_with-python-blue?logo=python&logoColor=green)](https://www.djangoproject.com/start/)
+[![Made with - django](https://img.shields.io/badge/Made_with-django-2ea44f?logo=django&logoColor=green)](https://www.djangoproject.com/start/)
+
 
 # TodoApp
 
