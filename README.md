@@ -28,7 +28,7 @@ python -m venv env
 git clone https://github.com/Nazar-Pichak/TodoApp.git
 
 ```
-- cd to the place where the repo was cloned
+- cd to the folder where the repo was cloned
 
 ```
 python -m pip install --upgrade pip
