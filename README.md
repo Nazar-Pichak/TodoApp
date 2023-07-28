@@ -4,6 +4,8 @@
 [![Github - service](https://img.shields.io/static/v1?label=Github&message=service&color=black&logo=github&logoColor=black)](https://github.com/)
 [![hosting price - 8 USD monthly](https://img.shields.io/static/v1?label=hosting+price&message=8+USD+monthly&color=2ea44f&logo=pythonanywhere)](https://)
 [![transactional - email](https://img.shields.io/static/v1?label=transactional&message=email&color=2ea44f&logo=mailgun)](https://www.mailgun.com/)
+[![Made with - HTML](https://img.shields.io/static/v1?label=Made+with&message=HTML&color=orange&logo=html5&logoColor=orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Made with - CSS](https://img.shields.io/static/v1?label=Made+with&message=CSS&color=blue&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 # TodoApp
 
 By following [tutorial](https://www.pythontutorial.net/django-tutorial/) about [Django](https://www.djangoproject.com/start/) was created the project [TodoApp](http://todoapp-nazar2022.pythonanywhere.com/).
