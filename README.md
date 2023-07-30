@@ -12,7 +12,7 @@ By following [tutorial](https://www.pythontutorial.net/django-tutorial/) about [
 Not bad idea for good understanding and practicing with this framework.
 
 The hardest was deploy and run this on the web server and sync it with [SMTP server](https://www.techtarget.com/whatis/definition/SMTP-Simple-Mail-Transfer-Protocol) to implement password recovery functionality via transactional emails and API service.
-👉 Click [here] to see WebApp online.
+👉 Click [here](http://todoapp-nazar2022.pythonanywhere.com/) to see WebApp online.
 
 # How it works
 
