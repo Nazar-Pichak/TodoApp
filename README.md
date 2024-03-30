@@ -27,8 +27,7 @@ So, it was taken just for testing porpuses only, and Google SMTP servise is impl
 # Installation
 
 ```
-python -m venv env
-.\env\Scripts\activate
+mkdir for your project
 git clone https://github.com/Nazar-Pichak/TodoApp.git
 
 ```
@@ -36,6 +35,8 @@ git clone https://github.com/Nazar-Pichak/TodoApp.git
 
 ```
 python -m pip install --upgrade pip
+python -m venv env
+.\env\Scripts\activate
 pip install -r requirements.txt
 python manage.py runserver
 ```
