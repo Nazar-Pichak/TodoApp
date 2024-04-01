@@ -22,7 +22,8 @@ So, basically was taken Mailgun SMTP sevice just for testing porpuses only, and 
 # Web Services
 
 - [Pythonanywhere](https://www.pythonanywhere.com/) as a hosting service.
-- [Mailgun](https://www.mailgun.com/) as a smtp server with simple API integration for the most popular programming languges.
+- [Mailgun](https://www.mailgun.com/) as a smtp server for testing porpuses with simple API integration for the most popular programming languges.
+- Google SMTP server and third-party application for sending emails.
 
 # Installation
 
