@@ -28,16 +28,31 @@ So, basically was taken Mailgun SMTP sevice just for testing porpuses only, and 
 # Installation
 
 ```
-mkdir for your project
 git clone https://github.com/Nazar-Pichak/TodoApp.git
 
 ```
 - cd to the folder where the repo was cloned
 
 ```
+cd >> /your_name/TodoApp
+```
+- create virtual environment
+
+```
 python -m pip install --upgrade pip
 python -m venv env
-.\env\Scripts\activate
+```
+- activate environment
+
+```
+env\Scripts\activate
+or
+source env/bin/activate
+```
+
+- install dependencies and run the app
+
+```
 pip install -r requirements.txt
 python manage.py runserver
 ```
