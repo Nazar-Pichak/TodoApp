@@ -26,17 +26,17 @@ So, basically was taken Mailgun SMTP sevice just for testing porpuses only, and 
 - Google SMTP server and third-party application for sending emails.
 
 # Installation
+In the beginning ensure you have installed [Python](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installation/) on your system.
 
 ```
 git clone https://github.com/Nazar-Pichak/TodoApp.git
-
 ```
 - cd to the folder where the repo was cloned
 
 ```
 cd >> TodoApp
 ```
-- create virtual environment
+- upgrade pip and create virtual environment
 
 ```
 python -m pip install --upgrade pip
