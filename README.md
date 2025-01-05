@@ -45,9 +45,10 @@ python -m venv env
 - activate environment
 
 ```
-env\Scripts\activate
-or
-source env/bin/activate
+Windows >> env\Scripts\activate
+```
+```
+Linux.. >> source env/bin/activate
 ```
 
 - install dependencies and run the app
