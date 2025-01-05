@@ -34,7 +34,7 @@ git clone https://github.com/Nazar-Pichak/TodoApp.git
 - cd to the folder where the repo was cloned
 
 ```
-cd >> /your_name/TodoApp
+cd >> TodoApp
 ```
 - create virtual environment
 
