@@ -89,15 +89,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Close the menu when user change window orientation
+    // Close mobile menu when a user changes window orientation
     function closeOverlayMenu(windowWidth) {
         if (windowWidth.matches) { // If media query matches
             hamburgerMenu.classList.remove("active");
             overlay.classList.remove("overlay-active");
             overlay.classList.replace("overlay-slide-right", "overlay-slide-left");
             navAnimation("in", "out");
-        }
-        
+        }   
       }
       
       // Create a MediaQueryList object
