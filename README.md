@@ -33,11 +33,20 @@ The following diagram illustrates the flow that allows a user to reset the passw
 
 
 
-### Installation
+### Contribution guide
 In the beginning ensure you have installed [Python](https://www.python.org/downloads/), [pip](https://pip.pypa.io/en/stable/installation/), [Node](https://nodejs.org/en) and [npm](https://www.npmjs.com/)  on your system.
 
+- create repo fork to get it available in your account.
+- clone repository localy.
+
 ```
-git clone https://github.com/Nazar-Pichak/TodoApp.git
+git clone https://github.com/your-name/TodoApp.git
+```
+
+- create a new branch to keep your work organized
+
+```
+git switch -c new-branch-name
 ```
 
 - create virtual environment in the project root folder
@@ -80,3 +89,5 @@ python manage.py test
 ```
 npm run build:css
 ```
+
+- push changes to upstream and open PR.
