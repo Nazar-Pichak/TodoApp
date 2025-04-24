@@ -48,6 +48,7 @@ git clone https://github.com/your-name/TodoApp.git
 ```
 git switch -c new-branch-name
 ```
+- create .env file and make appropriate configurations for dev mode in settings.py file.
 
 - create virtual environment in the project root folder
 
@@ -89,5 +90,5 @@ python manage.py test
 ```
 npm run build:css
 ```
-
+- make configurations for deployment in settings.py file.
 - push changes to upstream and open PR.
