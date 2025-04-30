@@ -4,7 +4,7 @@
 [![Made with - CSS](https://img.shields.io/static/v1?label=Made+with&message=CSS&color=blue&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Made with - JavaScript](https://img.shields.io/static/v1?label=Made+with&message=JavaScript&color=yellow&logo=javascript&logoColor=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**[TodoApp](http://todoapp-nazar2022.pythonanywhere.com/) is a notebook for your daily tasks.**
+**[TodoApp](http://todoapp-nazar2022.pythonanywhere.com/)** is a notebook for your daily tasks. You can use AI assistant as well to help you create your idea.   
 
 ### Used Web Services 
 
